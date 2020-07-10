@@ -11,6 +11,6 @@ Goal of this project is to learn:
 
 * Visualizing and evaluating segmentation models
 
-#Assignment One
+# Assignment One
 
-* # Chest X-Ray Medical Diagnosis with Deep Learning
+* Chest X-Ray Medical Diagnosis with Deep Learning
