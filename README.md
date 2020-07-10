@@ -10,3 +10,7 @@ Goal of this project is to learn:
 * Metrics and loss functions for segmentation
 
 * Visualizing and evaluating segmentation models
+
+#Assignment One
+
+* # Chest X-Ray Medical Diagnosis with Deep Learning
