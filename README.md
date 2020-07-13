@@ -14,3 +14,14 @@ Goal of this project is to learn:
 # Assignment One
 
 * Chest X-Ray Medical Diagnosis with Deep Learning
+
+In completing this assignment you will learn about the following topics: 
+
+- Data preparation
+  - Visualizing data
+  - Preventing data leakage
+- Model Development
+  - Addressing class imbalance
+  - Leveraging pre-trained models using transfer learning
+- Evaluation
+  - AUC and ROC curves
