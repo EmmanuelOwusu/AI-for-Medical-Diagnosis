@@ -1,7 +1,7 @@
 # AI-for-Medical-Diagnosis
 This repository contains work done in AI for Medical Diagnosis in Coursera.
 
-[1. Goal of this project is to learn]:
+Goal of this project is to learn:
 
 * What is in an MR image
 
@@ -13,7 +13,7 @@ This repository contains work done in AI for Medical Diagnosis in Coursera.
 
 # Assignment One
 
-[Chest X-Ray Medical Diagnosis with Deep Learning]
+Chest X-Ray Medical Diagnosis with Deep Learning
 
 In completing this assignment you will learn about the following topics: 
 
