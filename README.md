@@ -11,7 +11,7 @@ Goal of this project is to learn:
 
 * Visualizing and evaluating segmentation models
 
-# Assignment One
+[1. Assignment One](#1)
 
 Chest X-Ray Medical Diagnosis with Deep Learning
 
@@ -25,6 +25,8 @@ In completing this assignment you will learn about the following topics:
   - Leveraging pre-trained models using transfer learning
 - Evaluation
   - AUC and ROC curves
- [1. Import Packages and Function](#1)
+  
+  
+ [2. Import Packages and Function](#2)
  
  
