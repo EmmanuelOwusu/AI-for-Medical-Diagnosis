@@ -29,4 +29,11 @@ In completing this assignment you will learn about the following topics:
   
  [2. Import Packages and Function](#2)
  
+ We'll make use of the following packages:
+- `numpy` and `pandas` is what we'll use to manipulate our data
+- `matplotlib.pyplot` and `seaborn` will be used to produce plots for visualization
+- `util` will provide the locally defined utility functions that have been provided for this assignment
+
+We will also use several modules from the `keras` framework for building deep learning models.
+ 
  
