@@ -5,7 +5,7 @@ The Goal of this project is to learn:
 
 * What is in an MR image
 
-* Standard data preparation techniques for Magnetic Resonance Imaging (MRI) datasets
+* Standard data preparation techniques for Magnetic Resonance Imaging (MRI) Datasets
 
 * Metrics and loss functions for segmentation
 
