@@ -3,7 +3,7 @@ This repository contains work done in AI for Medical Diagnosis in Coursera.
 
 The Goal of this project is to learn:
 
-* What is in an MR image
+* What is an MR image
 
 * Standard data preparation techniques for Magnetic Resonance Imaging (MRI) Datasets
 
