@@ -1,5 +1,5 @@
 # AI-for-Medical-Diagnosis
-This repository contains work done in AI for Medical Diagnosis in Coursera.
+This repository contains a pro done in AI for Medical Diagnosis in Coursera.
 
 The Goal of this project is to learn:
 
