@@ -15,7 +15,7 @@ The Goal of this project is to learn:
 
 This assignment is on Chest X-Ray Medical Diagnosis with Deep Learning
 
- the following topics: 
+ The following topics: 
 
 - Data preparation
   - Visualizing data
