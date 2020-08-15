@@ -13,7 +13,7 @@ The Goal of this project is to learn:
 
 [1. Assignment One](#1)
 
-Chest X-Ray Medical Diagnosis with Deep Learning
+This assignment is on Chest X-Ray Medical Diagnosis with Deep Learning
 
 In completing this assignment you will learn about the following topics: 
 
