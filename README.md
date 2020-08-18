@@ -1,7 +1,7 @@
 # AI-for-Medical-Diagnosis
 This repository contains a Project done in AI for Medical Diagnosis in Coursera.
 
-The Goal of this Project is to learn:
+The Goal of this Project is to Learn:
 
 * What is a MR image
 
