@@ -14,7 +14,7 @@ The goal of this Project is to learn:
 
 * Visualizing and evaluating segmentation models
 
-[1. Assignment One](#1a)
+[1.a. Assignment One](#1a)
 
 This Assignment is on Chest X-Ray Medical Diagnosis with Deep Learning
 
@@ -30,7 +30,7 @@ This Assignment is on Chest X-Ray Medical Diagnosis with Deep Learning
   - AUC and ROC curves
   
   
- [1. Import Packages and Function](#1b)
+ [1.b. Import Packages and Function](#1b)
  
  We'll make use of the following packages:
 - `numpy` and `pandas` is what we'll use to manipulate our data
