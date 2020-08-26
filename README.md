@@ -39,7 +39,7 @@ This Assignment is on Chest X-Ray Medical Diagnosis with Deep Learning
 
 We  used several modules from the `keras` framework for building deep learning models in this project.
  
-[2. Week One](#2)
+[2. Week Two](#2)
 
 
 [3. Week One](#3)
