@@ -37,7 +37,7 @@ This Assignment is on Chest X-Ray Medical Diagnosis with Deep Learning
 - `matplotlib.pyplot` and `seaborn` will be used to produce plots for visualization
 - `util` will provide the locally defined utility functions that have been provided for this assignment
 
-We  used several modules from the `keras` framework for building deep learning models in this project.
+Several modules from the `keras` framework were used  for building deep learning models in this project.
  
 [2. Week Two](#2)
 
