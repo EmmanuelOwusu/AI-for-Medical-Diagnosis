@@ -42,7 +42,7 @@ We  used several modules from the `keras` framework for building deep learning m
 [2. Week Two](#2)
 
 
-[3. Week One](#3)
+[3. Week Three](#3)
 
 
  
