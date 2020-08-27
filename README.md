@@ -45,6 +45,6 @@ Several modules from the `keras` framework were used  for building deep learning
 
 
 [3. Week Three](#3)
-
+  * Brain Tumor Auto-Segmentation for Magnetic Resonance Imaging (MRI)
 
  
