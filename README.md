@@ -30,7 +30,7 @@ This Assignment is on Chest X-Ray Medical Diagnosis with Deep Learning
   - Addressing class imbalance
   - Leveraging pre-trained models using transfer learning
 - Evaluation
-  - AUC and ROC curves
+  - AUC and ROC 
   
   
  [1.b. Import Packages and Function](#1b)
