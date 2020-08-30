@@ -1,4 +1,6 @@
-# AI-for-Medical-Diagnosis
+# AI for Medicine Specialization
+
+## AI-for-Medical-Diagnosis
 
 This repository contains a Project done in AI for Medical Diagnosis in Coursera.
 
