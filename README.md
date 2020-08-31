@@ -47,7 +47,7 @@ Several modules from the `keras` framework were used  for building deep learning
 [2. Week Two](#2)
 
 
- [Evaluation of Diagnostic Models]((#B)
+ [Evaluation of Diagnostic Models](#B)
  
  * This assignment teaches us:
  
