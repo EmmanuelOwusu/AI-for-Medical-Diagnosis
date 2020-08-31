@@ -54,7 +54,8 @@ Several modules from the `keras` framework were used  for building deep learning
    * Accuracy
    
    * Prevalence
-Specificity & Sensitivity
+   
+   * Specificity & Sensitivity
 PPV and NPV
 ROC curve and AUCROC (c-statistic)
 Confidence Intervals
