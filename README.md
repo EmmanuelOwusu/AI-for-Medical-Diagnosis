@@ -6,7 +6,7 @@ This repository contains a Project done in AI for Medical Diagnosis in Coursera.
 
 [1. Week One](#1)
 
- [a. Chest X-Ray Medical Diagnosis with Deep Learning](#a)
+ [A. Chest X-Ray Medical Diagnosis with Deep Learning](#A)
 
 
 The goal of this Project is to learn:
