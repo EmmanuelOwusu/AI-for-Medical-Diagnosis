@@ -49,9 +49,9 @@ Several modules from the `keras` framework were used  for building deep learning
 
  * Evaluation of Diagnostic Models
  
- ### This assignment teaches us:
+ * This assignment teaches us:
  
-Accuracy
+   * Accuracy
 Prevalence
 Specificity & Sensitivity
 PPV and NPV
