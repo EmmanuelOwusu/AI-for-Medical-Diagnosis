@@ -52,7 +52,8 @@ Several modules from the `keras` framework were used  for building deep learning
  * This assignment teaches us:
  
    * Accuracy
-Prevalence
+   
+   * Prevalence
 Specificity & Sensitivity
 PPV and NPV
 ROC curve and AUCROC (c-statistic)
