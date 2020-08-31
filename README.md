@@ -49,16 +49,19 @@ Several modules from the `keras` framework were used  for building deep learning
 
  * Evaluation of Diagnostic Models
  
- * This assignment teaches us:
+This assignment teaches us:
  
    * Accuracy
    
    * Prevalence
    
    * Specificity & Sensitivity
-PPV and NPV
-ROC curve and AUCROC (c-statistic)
-Confidence Intervals
+   
+   * PPV and NPV
+   
+   * ROC curve and AUCROC (c-statistic)
+   
+   * Confidence Intervals
 
 [3. Week Three](#3)
   * Brain Tumor Auto-Segmentation for Magnetic Resonance Imaging (MRI)
