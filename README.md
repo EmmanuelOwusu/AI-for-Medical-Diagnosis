@@ -47,7 +47,7 @@ Several modules from the `keras` framework were used  for building deep learning
 [2. Week Two](#2)
 
 
- * Evaluation of Diagnostic Models
+ [Evaluation of Diagnostic Models]((#B)
  
  * This assignment teaches us:
  
@@ -64,6 +64,7 @@ Several modules from the `keras` framework were used  for building deep learning
    * Confidence Intervals
 
 [3. Week Three](#3)
-  * Brain Tumor Auto-Segmentation for Magnetic Resonance Imaging (MRI)
+
+  [Brain Tumor Auto-Segmentation for Magnetic Resonance Imaging (MRI)](#C)
 
  
