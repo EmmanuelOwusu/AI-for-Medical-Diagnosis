@@ -37,9 +37,9 @@ This Assignment is on Chest X-Ray Medical Diagnosis with Deep Learning
   
  [1.b. Import Packages and Function](#1b)
  
- We will make use of the following packages:
+ We  make use of the following packages:
  
-- `numpy` and `pandas` is what we'll use to manipulate our data
+- `numpy` and `pandas` is what we use to manipulate our data
 - `matplotlib.pyplot` and `seaborn` will be used to produce plots for visualization
 - `util` will provide the locally defined utility functions that have been provided for this Assignment
 
