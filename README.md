@@ -9,7 +9,7 @@ This Repository contains a Project done on AI for Medical Diagnosis in Coursera 
  [ Chest X-Ray Medical Diagnosis with Deep Learning](#A)
 
 
-The goal of this Project is to learn:
+The Goal of this Project is to learn:
 
 * What is a MR ( Magnetic Resonance)  image
 
@@ -17,7 +17,7 @@ The goal of this Project is to learn:
 
 * Metrics and loss functions for segmentation
 
-* Visualizing and evaluating segmentation models
+* Visualizing and Evaluating segmentation models
 
 [1.a. Assignment One](#1a)
 
