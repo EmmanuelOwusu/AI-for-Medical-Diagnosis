@@ -41,7 +41,7 @@ This Assignment is on Chest X-Ray Medical Diagnosis with Deep Learning
  
 - `numpy` and `pandas` is what we use to manipulate our data
 - `matplotlib.pyplot` and `seaborn` are use to produce plots for visualization
-- `util` will provide the locally defined utility functions that have been provided for this Assignment
+- `util`  provide the locally defined utility functions that have been provided for this Assignment
 
 Several modules from the `keras` framework were used  for building deep learning models in this project.
  
