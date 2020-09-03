@@ -39,18 +39,18 @@ This Assignment is on Chest X-Ray Medical Diagnosis with Deep Learning
  
  We  make use of the following packages:
  
-- `numpy` and `pandas` is what we use to manipulate our data
+- `numpy` and `pandas` is what we use to manipulate our Data
 - `matplotlib.pyplot` and `seaborn` are use to produce plots for visualization
 - `util`  provide the locally defined utility functions that have been provided for this Assignment
 
-Several modules from the `keras` framework were used  for building deep learning models in this Project.
+Several modules from the `keras` framework were used  for building Deep Learning models in this Project.
  
 [2. Week Two](#2)
 
 
  [Evaluation of Diagnostic Models](#B)
  
- * This Assignment teaches us:
+ * The following can be learnt from this Assignment:
  
    * Accuracy
    
