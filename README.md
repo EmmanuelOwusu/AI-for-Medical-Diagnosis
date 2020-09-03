@@ -26,8 +26,8 @@ This Assignment is on Chest X-Ray Medical Diagnosis with Deep Learning
  The following topics can be learnt from this Assignment: 
 
 - Data preparation
-  - Visualizing data
-  - Preventing data leakage
+  - Visualizing Data
+  - Preventing Data Leakage
 - Model Development
   - Addressing class imbalance
   - Leveraging pre-trained models using transfer learning
