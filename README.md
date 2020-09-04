@@ -17,7 +17,7 @@ The Goal of this Project is to learn:
 
 * Metrics and loss functions for Segmentation
 
-* Visualizing and Evaluating segmentation models
+* Visualizing and Evaluating Segmentation models
 
 [1.a. Assignment One](#1a)
 
@@ -60,7 +60,7 @@ Several modules from the `keras` framework were used  for building Deep Learning
    
    * PPV and NPV
    
-   * ROC curve and AUCROC (c-statistic)
+   * ROC curve and AUCROC (C-Statistic)
    
    * Confidence Intervals
 
