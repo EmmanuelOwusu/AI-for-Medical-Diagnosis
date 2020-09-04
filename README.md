@@ -11,11 +11,11 @@ This Repository contains a Project done on AI for Medical Diagnosis in Coursera 
 
 The Goal of this Project is to learn:
 
-* What is a MR ( Magnetic Resonance)  image
+* What is a MR ( Magnetic Resonance)  Image
 
 * Standard data preparation techniques for Magnetic Resonance Imaging (MRI) Datasets
 
-* Metrics and loss functions for segmentation
+* Metrics and loss functions for Segmentation
 
 * Visualizing and Evaluating segmentation models
 
