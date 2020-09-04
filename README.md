@@ -30,7 +30,7 @@ This Assignment is on Chest X-Ray Medical Diagnosis with Deep Learning
   - Preventing Data Leakage
 - Model Development
   - Addressing class imbalance
-  - Leveraging pre-trained models using transfer learning
+  - Leveraging pre-trained models using Transfer Learning
 - Evaluation
   - AUC and ROC Curves
   
