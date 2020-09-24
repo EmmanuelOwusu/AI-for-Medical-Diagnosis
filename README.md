@@ -50,7 +50,7 @@ Several modules from the `keras` framework were used  for building Deep Learning
 
  [Evaluation of Diagnostic Models](#B)
  
- * The following can be learnt from  Assignment:
+ * The following can be learnt from the   Assignment:
  
    * Accuracy
    
