@@ -15,7 +15,7 @@ The Goal of this Project is to learn:
 
 * Standard data preparation techniques for Magnetic Resonance Imaging (MRI) Datasets
 
-* Metrics and loss functions for Segmentation
+* Metrics and Loss functions for Segmentation
 
 * Visualizing and Evaluating Segmentation models
 
