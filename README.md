@@ -61,8 +61,8 @@ Several modules from the `keras` framework were used  for building Deep Learning
    * PPV (Positive Predictive Value) and NPV (Negative Predictive Value)
    
    * ROC curve and AUCROC (C-Statistic)
-   
-   * Confidence Intervals
+
+   * Confidence Intervals (CI)
 
 [3. Week Three](#3)
 
