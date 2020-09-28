@@ -58,7 +58,7 @@ Several modules from the `keras` framework were used  for building Deep Learning
    
    * Specificity & Sensitivity
    
-   * PPV (Positive Predictive Value) and NPV
+   * PPV (Positive Predictive Value) and NPV (Negative Predictive Value)
    
    * ROC curve and AUCROC (C-Statistic)
    
