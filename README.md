@@ -62,7 +62,7 @@ Several modules from the `keras` framework were used  for building Deep Learning
    
    * ROC curve and AUCROC (C-Statistic)
 
-   * Confidence Intervals (CI)
+   * Confidence Intervals 
 
 [3. Week Three](#3)
 
