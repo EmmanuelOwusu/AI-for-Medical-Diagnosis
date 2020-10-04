@@ -17,7 +17,7 @@ The Goal of this Project is to learn:
 
 * Metrics and Loss functions for Segmentation
 
-* Visualizing and Evaluating Segmentation models
+* Visualizing and Evaluating Segmentation Models
 
 [1.a. Assignment One](#1a)
 
