@@ -13,7 +13,7 @@ This Repository contains a Project done on AI for Medical Diagnosis in Coursera 
  * Data preparation
     * Visualizing data
     * Preventing data leakage
-Model Development
+  * Model Development
 Addressing class imbalance
 Leveraging pre-trained models using transfer learning
 Evaluation
