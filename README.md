@@ -66,7 +66,7 @@ Several modules from the `keras` framework were used  for building Deep Learning
 
   * Standard data preparation techniques for Magnetic Resonance Imaging (MRI) Datasets
 
-Metrics and Loss functions for Segmentation
+  * Metrics and Loss functions for Segmentation
 
 Visualizing and Evaluating Segmentation Models
 
