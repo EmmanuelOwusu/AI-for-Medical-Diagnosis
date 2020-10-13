@@ -17,7 +17,7 @@ This Repository contains a Project done on AI for Medical Diagnosis in Coursera 
     * Addressing class imbalance
     * Leveraging pre-trained models using transfer learning
  * Evaluation
-AUC and ROC curves
+    * AUC and ROC curves
 
 
 
