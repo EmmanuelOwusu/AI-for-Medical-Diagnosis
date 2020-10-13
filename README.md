@@ -15,8 +15,8 @@ This Repository contains a Project done on AI for Medical Diagnosis in Coursera 
     * Preventing data leakage
  * Model Development
     * Addressing class imbalance
-Leveraging pre-trained models using transfer learning
-Evaluation
+    * Leveraging pre-trained models using transfer learning
+ * Evaluation
 AUC and ROC curves
 
 
