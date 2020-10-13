@@ -64,7 +64,7 @@ Several modules from the `keras` framework were used  for building Deep Learning
   
   * What is a MR ( Magnetic Resonance)  Image
 
-Standard data preparation techniques for Magnetic Resonance Imaging (MRI) Datasets
+  * Standard data preparation techniques for Magnetic Resonance Imaging (MRI) Datasets
 
 Metrics and Loss functions for Segmentation
 
