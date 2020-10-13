@@ -7,6 +7,18 @@ This Repository contains a Project done on AI for Medical Diagnosis in Coursera 
 [1. Week One](#1)
 
  [ Chest X-Ray Medical Diagnosis with Deep Learning](#A)
+ 
+ * In completing this assignment you will learn about the following topics:
+
+Data preparation
+Visualizing data
+Preventing data leakage
+Model Development
+Addressing class imbalance
+Leveraging pre-trained models using transfer learning
+Evaluation
+AUC and ROC curves
+
 
 
 
