@@ -9,8 +9,6 @@ This Repository contains a Project done on AI for Medical Diagnosis in Coursera 
  [ Chest X-Ray Medical Diagnosis with Deep Learning](#A)
 
 
-The Goal of this Project is to learn:
-
 
 
 [1.a. Assignment One](#1a)
