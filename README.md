@@ -11,13 +11,7 @@ This Repository contains a Project done on AI for Medical Diagnosis in Coursera 
 
 The Goal of this Project is to learn:
 
-* What is a MR ( Magnetic Resonance)  Image
 
-* Standard data preparation techniques for Magnetic Resonance Imaging (MRI) Datasets
-
-* Metrics and Loss functions for Segmentation
-
-* Visualizing and Evaluating Segmentation Models
 
 [1.a. Assignment One](#1a)
 
@@ -67,5 +61,13 @@ Several modules from the `keras` framework were used  for building Deep Learning
 [3. Week Three](#3)
 
   [Brain Tumor Auto-Segmentation for Magnetic Resonance Imaging (MRI)](#C)
+  
+  * What is a MR ( Magnetic Resonance)  Image
+
+Standard data preparation techniques for Magnetic Resonance Imaging (MRI) Datasets
+
+Metrics and Loss functions for Segmentation
+
+Visualizing and Evaluating Segmentation Models
 
  
