@@ -70,6 +70,6 @@ Several modules from the `keras` framework were used  for building Deep Learning
 
   * Metrics and Loss functions for Segmentation
 
-  * Visualizing and Evaluating Segmentation 
+  * Visualizing and Evaluating Segmentation Models
 
  
