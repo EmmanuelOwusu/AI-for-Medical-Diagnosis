@@ -22,7 +22,7 @@ The following topics can be learnt from this Assignment:
   
 - Model Development
 
-  - Addressing class 
+  - Addressing class imbalance
   
   - Leveraging pre-trained models using Transfer Learning
   
